@@ -29,8 +29,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Messages
 default_start_msg = """
-**Hi, I'm Media Search Bot or ypu can call me as Auto-Filter Bot**
-Here you can search files in Inline mode as well as PM, Use the below buttons to search files or send me the name of file to search.
+⭕️My Name is Lucifer Mornigstar⭕️ 🥰നിങ്ങൾ എന്നെ Lucifer എന്ന് വിളിച്ചു🤗 ഉള്ളു AD MOVEIS HUNT Eill പണി ചെയ്യുന്ന ഒരു auto ഫിൽറ്റർ bot ആണ് വെറുതെ നോക്കി നിന്ന്  സമയം കളയണ്ട എന്നെ അതിൽ യൂസ് ചെയ്യാൻ മാത്രമേ പറ്റൂ🤭🤭
 """
 START_MSG = environ.get('START_MSG', default_start_msg)
 
